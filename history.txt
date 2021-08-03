@@ -1,0 +1,11 @@
+commit 097d4700e88b610a625641388085de2f92af0a90
+Author: tugba <tugba.asci1419@gmail.com>
+Date:   Tue Aug 3 04:41:12 2021 -0700
+
+    ikinci commit mesajim
+
+commit e84de9b7e1cfbd422dbfc320824e867d7f6f1186
+Author: tugba <tugba.asci1419@gmail.com>
+Date:   Tue Aug 3 04:37:49 2021 -0700
+
+    benim ilk commit mesajim
